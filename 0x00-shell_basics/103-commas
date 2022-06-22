@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -F | sort -d
+ls -aF | sort -d
