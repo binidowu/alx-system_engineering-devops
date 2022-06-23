@@ -10,3 +10,5 @@ This repository contains scripts that deal with permissions in linux
 4. 3-new_owner: This script changes the owner of the file hello to the user betty.
 
 5. 4-empty: This script creates an empty file called hello.
+
+6. 5-execute: This script executes permission to the owner of the file hello.
