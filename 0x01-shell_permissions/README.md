@@ -6,3 +6,5 @@ This repository contains scripts that deal with permissions in linux
 2. 1-who_am_i: This script prints the effective username of the current user.
 
 3. 2-groups: This script prints all the groups the current user is part of.
+
+4. 3-new_owner: This script changes the owner of the file hello to the user betty.
