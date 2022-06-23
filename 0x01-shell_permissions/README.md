@@ -12,3 +12,5 @@ This repository contains scripts that deal with permissions in linux
 5. 4-empty: This script creates an empty file called hello.
 
 6. 5-execute: This script executes permission to the owner of the file hello.
+
+7. 6-multiple_permissions: This script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
