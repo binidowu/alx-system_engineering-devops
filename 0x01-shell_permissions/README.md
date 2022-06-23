@@ -23,4 +23,11 @@ This repository contains scripts that deal with permissions in linux
 		 Group: no permission at all
 		 Other users: all the permissions
 
-10. 
+10. 9-John_Doe: This script sets the mode of the file hello to this:
+
+    -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+    
+	   The file hello will be in the working directory
+	   There will be no use of commas for this script
+
+11. 
