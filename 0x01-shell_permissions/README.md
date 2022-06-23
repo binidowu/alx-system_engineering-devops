@@ -8,3 +8,5 @@ This repository contains scripts that deal with permissions in linux
 3. 2-groups: This script prints all the groups the current user is part of.
 
 4. 3-new_owner: This script changes the owner of the file hello to the user betty.
+
+5. 4-empty: This script creates an empty file called hello.
