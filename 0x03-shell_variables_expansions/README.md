@@ -26,10 +26,25 @@
 
 13. 12-combinations: This script prints all possible combinations of two letters, except oo.
 
-        Letters are lower cases, from a to z
-	One combination per line
-	The output should be alpha ordered, starting with aa
-	Do not print oo
-        Your script file should contain maximum 64 characters
+          Letters are lower cases, from a to z
+	  One combination per line
+	  The output should be alpha ordered, starting with aa
+	  Do not print oo
+          Your script file should contain maximum 64 characters
 
-14. 13-print_float: THis script prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
+14. 13-print_float: This script prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
+
+15. 100-decimal_to_hexadecimal: This scipt onverts a number from base 10 to base 16.
+
+          The number in base 10 is stored in the environment variable DECIMAL
+	  The script should display the number in base 16, followed by a new line
+
+16. 101-rot13: This script encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+17. 102-odd: This script prints every other line from the input, starting with the first line.
+
+18. 103-water_and_stir: This script adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+  
+          WATER is in base water  
+          STIR is in base stir.
+          The result should be in base bestchol
